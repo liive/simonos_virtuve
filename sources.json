@@ -1,0 +1,48 @@
+{
+  "restaurant": "Simonos virtuvė",
+  "checked_on": "2026-10-01",
+  "content_source": "https://restaurantguru.com/Simonos-Virtuve-Vilnius",
+  "photos": [
+    {
+      "file": "assets/photo-01.jpg",
+      "width": 1400,
+      "height": 1050,
+      "description": "Empty dining room with tables and chairs",
+      "source_url": "https://www.lovevilnius.com/eat-drink/venues/simonos-virtuve",
+      "image_url": "https://lovevilnius.com/photos/venues/eat-drink__venues__simonos-virtuve-1.webp",
+      "reuse": "No explicit reuse license located. Public listing image; rights remain with source/photographer."
+    },
+    {
+      "file": "assets/refresh-01.jpg",
+      "width": 1170,
+      "height": 618,
+      "description": "Simonos virtuvė street entrance and red restaurant fascia, no people",
+      "source_url": "https://www.1323.lt/skrandzio-gidas/2143-eime-pietauti-soho-kijevo-kotletas-ir-simonos-virtuve",
+      "image_url": "https://www.1323.lt/images/1323/2023/40SAVspalio2-8/simonos/3.jpg",
+      "reuse": "Photo Julius Baliutavičius / 1323.lt; no reuse license found."
+    },
+    {
+      "file": "assets/simonos-lunch-hero.jpg",
+      "width": 1672,
+      "height": 941,
+      "description": "Generated editorial photograph of Lithuanian-style lunch: soup, potato pancakes and rye bread.",
+      "source_url": "",
+      "image_url": "",
+      "reuse": "User-provided or generated asset."
+    },
+    {
+      "file": "assets/simonos-storefront-user.jpg",
+      "width": 1150,
+      "height": 750,
+      "description": "Restaurant exterior photograph supplied by the user.",
+      "source_url": "",
+      "image_url": "",
+      "reuse": "User-provided or generated asset."
+    }
+  ],
+  "review_note": "Uploaded venue exterior, verified interior and street entrance, plus generated lunch hero.",
+  "google_maps_status": "Direct Google Maps closure status could not be confirmed.",
+  "photo_rights": "Source photographs are authentic; no explicit republication license verified. Private design preview.",
+  "design_updated_on": "2026-10-04",
+  "gallery_layout": "Uniform 4:3 image frames in aligned responsive rows"
+}
